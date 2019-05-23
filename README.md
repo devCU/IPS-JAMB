@@ -37,8 +37,10 @@
 ## Features
 
 - Coming Soon...
+- 1000's of pure SVG backgrounds to choose from and create your own
+- Uses jQuery Easing Plugin with dozens of transition/animation options
 
-<img src="https://www.devcu.net/mediasrc/jamb_demoani.gif?V=1.1" width="50%"></img>
+<img src="https://www.devcu.net/mediasrc/jamb_demoani.gif?V=1.12" width="50%"></img>
 
 ## Install
 
